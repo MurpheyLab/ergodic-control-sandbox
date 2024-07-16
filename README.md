@@ -18,11 +18,11 @@ The implementations contained herein are copyright (C) 2024 - 2025 by Muchen Sun
 
 If you use the sandbox in your research, please cite this repository. You can see the citation information at the right side panel under "About". The BibTeX file is attached below:
 ```
-@software{Sun_Sandbox_code_for_2024,
+@software{Sun_Ergodic_Control_Sandbox_2024,
 author = {["Sun", "Murphey"], Muchen, Todd},
 license = {GPL-3.0},
 month = jul,
-title = {{Sandbox code for "Tutorial on Ergodic Control @ ICRA 2024"}},
+title = {{Ergodic Control Sandbox}},
 url = {https://github.com/MurpheyLab/ergodic-control-sandbox},
 version = {0.0.1},
 year = {2024}
