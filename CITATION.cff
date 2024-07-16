@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: [Sun, Murphey]
+    given-names: [Muchen, Todd]
+    orcid: [0000-0002-3704-6315, 0000-0003-2262-8176]
+title: "Sandbox code for \"Tutorial on Ergodic Control @ ICRA 2024\""
+version: "0.0.1"
+date-released: 2024-07-16
+url: "https://github.com/MurpheyLab/ergodic-control-sandbox"
+repository-code: "https://github.com/MurpheyLab/ergodic-control-sandbox"
+license: "GPL-3.0"
+keywords:
+  - ergodic control
+  - optimal control
+  - information gathering
