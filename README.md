@@ -16,6 +16,19 @@ Sandbox code for "Tutorial on Ergodic Control @ ICRA 2024"
 
 The implementations contained herein are copyright (C) 2024 - 2025 by Muchen Sun, and are distributed under the terms of the GNU General Public License (GPL) version 3 (or later). Please see the LICENSE for more information.
 
+If you use the sandbox in your research, please cite this repository. You can see the citation information at the right side panel under "About". The BibTeX file is attached below:
+```
+@software{Sun_Sandbox_code_for_2024,
+author = {["Sun", "Murphey"], Muchen, Todd},
+license = {GPL-3.0},
+month = jul,
+title = {{Sandbox code for "Tutorial on Ergodic Control @ ICRA 2024"}},
+url = {https://github.com/MurpheyLab/ergodic-control-sandbox},
+version = {0.0.1},
+year = {2024}
+}
+```
+
 Contact: muchen@u.northwestern.edu
 
 Lab Info: Prof. Todd D. Murphey, [Interactive & Emergent Autonomy Lab](https://murpheylab.github.io/) / [Center for Robotics and Biosystems](https://robotics.northwestern.edu/) / Northwestern University
