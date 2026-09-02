@@ -1,6 +1,8 @@
-# ergodic-control-sandbox
+# Ergodic Control Sandbox
 <!-- Sandbox code for "Tutorial on Ergodic Control @ ICRA 2024" -->
-Standalone tutorials for ergodic control.
+Standalone tutorials for ergodic control (previously sandbox code for "Tutorial on Ergodic Control at ICRA 2024").
+
+Authors: [Max Muchen Sun](https://maxsun.io/), [Cem Bilaloglu](https://sites.google.com/view/cembilaloglu/home)
 
 ## Table of contents
 
@@ -11,6 +13,7 @@ Standalone tutorials for ergodic control.
 | **Trajectory Optimization for Ergodic Control** <br> <img src="images/ilqr_iters.gif" alt="drawing" width="250"/> | [[Jupyter Notebook]](notebooks/ilqr_ergodic_control.ipynb) <br> [[Google Colab]](https://colab.research.google.com/github/MurpheyLab/ergodic-control-sandbox/blob/main/notebooks/ilqr_ergodic_control.ipynb) |
 | **Ergodic Control with Kernel Functions** <br> <img src="images/kernel_iters.gif" alt="drawing" width="250"/> | [[Jupyter Notebook]](notebooks/kernel_ergodic_control.ipynb) <br> [[Google Colab]](https://colab.research.google.com/github/MurpheyLab/ergodic-control-sandbox/blob/main/notebooks/kernel_ergodic_control.ipynb) |
 | **Kernerl Ergodic Search on Lie Groups** <br> <img src="images/kes_so3.gif" alt="drawing" width="250"/> | [[Jupyter Notebook]](notebooks/kernel_ergodic_control_SO3.ipynb) <br> [[Google Colab]](https://colab.research.google.com/github/MurpheyLab/ergodic-control-sandbox/blob/main/notebooks/kernel_ergodic_control_SO3.ipynb) |
+| **Heat Equation Driven Area Coverage (HEDAC)** <br> <img src="images/hedac_airplane.gif" alt="drawing" width="250"/> | [[Jupyter Notebook]](notebooks/hedac_ergodic_control.ipynb) <br> [[Google Colab]](https://colab.research.google.com/github/MurpheyLab/ergodic-control-sandbox/blob/main/notebooks/hedac_ergodic_control.ipynb) |
 | **Ergodic Metric for Point Cloud Registration** <br> <img src="images/fls_registration.gif" alt="drawing" width="400"/> | [[GitHub Repo]](https://github.com/MurpheyLab/FLS) |  
 
 
@@ -21,13 +24,13 @@ The implementations contained herein are copyright (C) 2024 - 2025 by Muchen Sun
 If you use the sandbox in your research, please cite this repository. You can see the citation information at the right side panel under "About". The BibTeX file is attached below:
 ```
 @software{Sun_Ergodic_Control_Sandbox_2024,
-    author = {["Sun", "Murphey"], Max Muchen, Todd},
+    author = {["Sun", "Bilaloglu", "Murphey"], Max Muchen, Cem, Todd},
     license = {GPL-3.0},
     month = jul,
     title = {{Ergodic Control Sandbox}},
     url = {https://github.com/MurpheyLab/ergodic-control-sandbox},
-    version = {0.0.1},
-    year = {2024}
+    version = {0.1.0},
+    year = {2026}
 }
 ```
 
