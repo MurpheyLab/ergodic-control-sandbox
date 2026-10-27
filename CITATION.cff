@@ -1,9 +1,14 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use this software, please cite the paper in preferred-citation."
 authors:
-  - family-names: [Sun, Murphey]
-    given-names: [Max Muchen, Todd]
-    orcid: [0000-0002-3704-6315, 0000-0003-2262-8176]
+  - family-names: Sun
+    given-names: Max Muchen
+    orcid: "https://orcid.org/0000-0002-3704-6315"
+  - family-names: Bilaloglu
+    given-names: Cem
+  - family-names: Murphey
+    given-names: Todd
+    orcid: "https://orcid.org/0000-0003-2262-8176"
 title: "Ergodic Control Sandbox"
 version: "0.0.1"
 date-released: 2024-07-16
@@ -14,3 +19,31 @@ keywords:
   - ergodic control
   - optimal control
   - information gathering
+preferred-citation:
+  type: generic
+  title: "Ergodic Control and Controlled Diffusion for Robot Learning: Review and Tutorial"
+  authors:
+    - family-names: Sun
+      given-names: Max Muchen
+    - family-names: Bilaloglu
+      given-names: Cem
+    - family-names: Rao
+      given-names: Ananya
+    - family-names: Ivic
+      given-names: Stefan
+    - family-names: Sartoretti
+      given-names: Guillaume
+    - family-names: Fitzsimons
+      given-names: Kathleen
+    - family-names: Abraham
+      given-names: Ian
+    - family-names: Calinon
+      given-names: Sylvain
+    - family-names: Murphey
+      given-names: Todd
+  year: 2026
+  status: preprint
+  url: "https://arxiv.org/abs/2609.13295"
+  identifiers:
+    - type: other
+      value: "arXiv:2609.13295"

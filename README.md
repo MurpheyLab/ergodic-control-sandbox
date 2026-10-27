@@ -2,6 +2,8 @@
 <!-- Sandbox code for "Tutorial on Ergodic Control @ ICRA 2024" -->
 Standalone tutorials for ergodic control (previously sandbox code for "Tutorial on Ergodic Control at ICRA 2024").
 
+This sandbox accompanies the paper [*Ergodic Control and Controlled Diffusion for Robot Learning: Review and Tutorial*](https://arxiv.org/abs/2609.13295).
+
 Authors: [Max Muchen Sun](https://maxsun.io/), [Cem Bilaloglu](https://sites.google.com/view/cembilaloglu/home)
 
 ## Table of contents
@@ -21,16 +23,19 @@ Authors: [Max Muchen Sun](https://maxsun.io/), [Cem Bilaloglu](https://sites.goo
 
 The implementations contained herein are copyright (C) 2024 - 2025 by Muchen Sun, and are distributed under the terms of the GNU General Public License (GPL) version 3 (or later). Please see the LICENSE for more information.
 
-If you use the sandbox in your research, please cite this repository. You can see the citation information at the right side panel under "About". The BibTeX file is attached below:
-```
-@software{Sun_Ergodic_Control_Sandbox_2024,
-    author = {["Sun", "Bilaloglu", "Murphey"], Max Muchen, Cem, Todd},
-    license = {GPL-3.0},
-    month = jul,
-    title = {{Ergodic Control Sandbox}},
-    url = {https://github.com/MurpheyLab/ergodic-control-sandbox},
-    version = {0.1.0},
-    year = {2026}
+## Citation
+
+If you use the sandbox in your research, please cite:
+
+```bibtex
+@misc{sun2026ergodiccontrolcontrolleddiffusion,
+  title={Ergodic Control and Controlled Diffusion for Robot Learning: Review and Tutorial},
+  author={Max Muchen Sun and Cem Bilaloglu and Ananya Rao and Stefan Ivic and Guillaume Sartoretti and Kathleen Fitzsimons and Ian Abraham and Sylvain Calinon and Todd Murphey},
+  year={2026},
+  eprint={2609.13295},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO},
+  url={https://arxiv.org/abs/2609.13295},
 }
 ```
 
